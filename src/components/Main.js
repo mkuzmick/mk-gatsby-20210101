@@ -107,7 +107,7 @@ class Main extends React.Component {
           <p>
             I'm looking for suggestions for both monthly Tools to practice, and for the daily entries in the Glossary of Tools and Moves. I probably won't hook this particular form up to anything, so don't bother entering anything just yet. But if I DID hook it up, these are some of the questions I'd ask.
           </p>
-          <form method="post" action="#">
+          <form method="POST" data-netlify="true"> 
             <div className="field half first">
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />

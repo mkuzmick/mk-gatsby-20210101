@@ -3,6 +3,7 @@ module.exports = {
     title: `Tools, Media, and What's Next`,
     author: 'Marlon Kuzmick',
     description: `The first of 31 daily Gatsby sites I'll make this month.`,
+    image: '/static/mk-gatsby-20210101-screenshot.png'
   },
   plugins: [
     'gatsby-plugin-react-helmet',

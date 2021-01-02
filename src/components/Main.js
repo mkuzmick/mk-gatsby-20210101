@@ -71,7 +71,7 @@ class Main extends React.Component {
             As tools, tools are useful because they help us make things. There is stuff—material, content, medium, matter—and tools allow you to shape it, cut it, mix it, manipulate it, curate it, preserve it, and so on. They let you make moves and maneuvers.
           </p>
           <p>
-            As a term, "Tools" is valuable because it foregrounds the centrality of the tool itself in the creative operation. Again, when something is made, a person (an artist or craftsperson or writer or musician or whatever), uses a tool to create a work in some medium. And different approaches to this operation might privilege one element in this system over others (the person, the medium, the work, the tool). In fact, there are other "meta" elements that frequently get privileged too: history, context, themes, principles . . . theory. These are all cool things to attend to. 
+            As a term, the word "Tools" is valuable because it foregrounds the centrality of the tool itself in the creative operation. Again, when something is made, a person (an artist or craftsperson or writer or musician or whatever), uses a tool to create a work in some medium. And different approaches to this operation might privilege one element in this system over others (the person, the medium, the work, the tool). In fact, there are other "meta" elements that frequently get privileged too: history, context, themes, principles . . . theory. These are all cool things to attend to. 
           </p>
           <p>
             But, at least some of the time, we're going to attend to tools, and to the moves you can make with them. 

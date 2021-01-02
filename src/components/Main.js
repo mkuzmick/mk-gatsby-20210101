@@ -62,10 +62,22 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            So, if we're writing a glossary of tools (and moves, but more on that tomorrow), and one entry in this glossary is going to be for the term "Tools," wtf?
+            So, if we're writing a glossary of tools (and moves), and one entry in the glossary is "Tools," what then?
           </p>
           <p>
-          
+            Well, there are two ways that "Tools" function(s) for us: first, as the things, as tools, and second as the term, the word "Tools," which is itself a sort of "conceptual Tool."
+          </p>
+          <p>
+            As tools, tools are useful because they help us make things. There is stuff—material, content, medium, matter—and tools allow you to shape it, cut it, mix it, manipulate it, curate it, preserve it, and so on. They let you make moves and maneuvers.
+          </p>
+          <p>
+            As a term, "Tools" is valuable because it foregrounds the centrality of the tool itself in the creative operation. Again, when something is made, a person (an artist or craftsperson or writer or musician or whatever), uses a tool to create a work in some medium. And different approaches to this operation might privilege one element in this system over others (the person, the medium, the work, the tool). In fact, there are other "meta" elements that frequently get privileged too: history, context, themes, principles . . . theory. These are all cool things to attend to. 
+          </p>
+          <p>
+            But, at least some of the time, we're going to attend to tools, and to the moves you can make with them. 
+          </p>
+          <p>
+            And the fact that this emphasis will stop us from worrying <i>too</i> much about principles and elements and systems and theories might well mean that we won't be able to say or write anything super important about history and principles and theory . . . but that's OK, because we're focussing on tools because we want to build things.
           </p>
           {close}
         </article>
